@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+DataFormats/.ipynb_checkpoints
+.env
+*_Pickle.txt
+.webcache

@@ -1,0 +1,13 @@
+$$$Filename&&&
+Type: $$$Type&&&
+Batch: $$$Batch&&&
+Wafer: $$$Wafer&&&
+Component: $$$Component&&&
+Date: $$$Date&&&
+Time: $$$Time&&&
+Institute: $$$Institute&&&
+TestType: $$$TestType&&&
+Instrument: $$$Instrument&&&
+RunNumber: $$$RunNumber&&&
+Comments: $$$Settings&&&
+AvThickness: $$$AvThickness&&&

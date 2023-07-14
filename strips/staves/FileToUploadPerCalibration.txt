@@ -1,0 +1,5 @@
+#add path to the files that needs to be uploaded to a STAVE in the database here
+
+#staveCalib/crosscheck/staveCoordinatesSystemCaptured.cs
+
+#virtualstave.csv

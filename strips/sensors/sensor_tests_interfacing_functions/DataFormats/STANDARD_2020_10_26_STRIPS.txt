@@ -1,0 +1,24 @@
+$$$Filename&&&
+Type: $$$Type&&&
+Batch: $$$Batch&&&
+Wafer: $$$Wafer&&&
+Component: $$$Component&&&
+Date: $$$Date&&&
+Time: $$$Time&&&
+Institute: $$$Institute&&&
+TestType: $$$TestType&&&
+Vbias_SMU: $$$Vbias_SMU&&&
+Rseries_bias: $$$Rseries[MOhm]&&&
+LCR: $$$LCR&&&
+Frequency: $$$Frequency[kHz]&&&
+Amplitude: $$$Amplitude[V]&&&
+Circuit: $$$Circuit&&&
+Test_SMU: $$$Test_SMU&&&
+Rseries_test: $$$Rseries_Test[MOhm]&&&
+Vbias: $$$Vbias[V]&&&
+Segment: $$$Segment&&&
+RunNumber: $$$RunNumber&&&
+Temperature: $$$Temperature[°C]&&&
+Humidity: $$$Humidity[%]&&&
+Comments: $$$Settings&&&
+$$$TABLE&&&

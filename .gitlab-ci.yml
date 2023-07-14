@@ -1,0 +1,69 @@
+stages:
+  - test
+
+variables:
+  PYTHON_OLDEST_IMAGE: gitlab-registry.cern.ch/ci-tools/ci-worker:cc7
+  PYTHON_NEWEST_IMAGE: python:latest
+
+.preinstall:
+  before_script:
+    - python3 -m pip install -U pip setuptools wheel
+    - python3 -m pip install --ignore-installed -U -q -e .[develop]
+    - python3 -m pip freeze
+
+.tests:
+  stage: test
+  extends: .preinstall
+  script:
+    - pytest testing/ --cov=.
+
+code_style:
+  image: $PYTHON_NEWEST_IMAGE
+  stage: test
+  extends: .preinstall
+  script:
+    - pyflakes .
+
+security_checks:
+  image: $PYTHON_NEWEST_IMAGE
+  stage: test
+  extends: .preinstall
+  script:
+    - bandit -r *.py itk_pdb/ pixels/ reporting/ strips/
+
+import_order:
+  image: $PYTHON_NEWEST_IMAGE
+  stage: test
+  extends: .preinstall
+  script:
+    - find . -name "*.py" | xargs -I {} reorder-python-imports {} || echo "Diffs below"
+    - git diff --exit-code
+
+tests_python3_oldest:
+  image: $PYTHON_OLDEST_IMAGE
+  before_script:
+   - yum install -y python3 python36-pytest python36-requests python36-pytest-cov python36-pytest-mock
+   - ln -s /usr/bin/pytest-3.6 /usr/bin/pytest
+   # Otherwise the CI terminal is ascii
+   - export PYTHONIOENCODING=utf-8
+   # Allows importing of itk_pdb in tests
+   - export PYTHONPATH=.
+  extends: .tests
+
+tests_python3_newest:
+  image: $PYTHON_NEWEST_IMAGE
+  extends: .tests
+
+run_quick_checks:
+    stage: test
+    script:
+    - which python3 || yum install -y python3
+    - python3 testing/quick_tests.py
+
+run_quick_tests_to_file:
+    stage: test
+    script:
+    # Mainly testing encoding (different for console output)
+    - which python3 || yum install -y python3
+    - python3 testing/quick_tests.py > test_output
+    - cat test_output

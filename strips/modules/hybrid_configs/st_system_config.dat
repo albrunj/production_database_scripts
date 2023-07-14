@@ -1,0 +1,74 @@
+DAQ upd 192.168.222.16 60001,60001
+ 
+ 
+           Detector     LV    HV    SLOG             MuSTARD           Module
+           id    pr ac  cr ch id ch id - - cm0  - -  id s0  s1  d0 d1  Filename         Device Type
+         ------------------------------------------------------------------------------------------
+#side J
+
+Module     0     1  1   -1 -1 -1 -1  0  0 1 103  1 0  0  28  -1 50 50  star_stave_pos0   Star_Test 
+Module     1     1  1   -1 -1 -1 -1  0  0 1 103  1 0  0  30  -1 50 50  star_stave_pos1   Star_Test 
+Module     2     1  1   -1 -1 -1 -1  0  0 1 103  1 0  0  32  -1 50 50  star_stave_pos2   Star_Test 
+#Module    3     1  1   -1 -1 -1 -1  0  0 1 103  1 0  0  36  -1 50 50  star_stave_pos3   Star_Test 
+#Module    4     1  1   -1 -1 -1 -1  0  0 1 103  1 0  0  0   -1 50 50  star_stave_pos4   Star_Test 
+#Module    5     1  1   -1 -1 -1 -1  0  0 1 103  1 0  0  2   -1 50 50  star_stave_pos5   Star_Test 
+#Module    6     1  1   -1 -1 -1 -1  0  0 1 103  1 0  0  4   -1 50 50  star_stave_pos6   Star_Test 
+#Module    7     1  1   -1 -1 -1 -1  0  0 1 103  1 0  0  6   -1 50 50  star_stave_pos7   Star_Test 
+
+#Module    8     1  1   -1 -1 -1 -1  0  0 1 101  1 0  0  52  -1 50 50  star_stave_pos8   Star_Test 
+#Module    9     1  1   -1 -1 -1 -1  0  0 1 101  1 0  0  54  -1 50 50  star_stave_pos9   Star_Test 
+#Module    10    1  1   -1 -1 -1 -1  0  0 1 101  1 0  0  38  -1 50 50  star_stave_pos10  Star_Test  
+#Module    11    1  1   -1 -1 -1 -1  0  0 1 101  1 0  0  40  -1 50 50  star_stave_pos11  Star_Test  
+#Module    12    1  1   -1 -1 -1 -1  0  0 1 101  1 0  0  8   -1 50 50  star_stave_pos12  Star_Test  
+#Module    13    1  1   -1 -1 -1 -1  0  0 1 101  1 0  0  24  -1 50 50  star_stave_pos13  Star_Test  
+#Module    14    1  1   -1 -1 -1 -1  0  0 1 101  1 0  0  10  -1 50 50  star_stave_pos14  Star_Test  
+#Module    15    1  1   -1 -1 -1 -1  0  0 1 101  1 0  0  12  -1 50 50  star_stave_pos15  Star_Test  
+
+#Module    16    1  1   -1 -1 -1 -1  0  0 1 102  1 0  0  42  -1 50 50  star_stave_pos16  Star_Test  
+#Module    17    1  1   -1 -1 -1 -1  0  0 1 102  1 0  0  44  -1 50 50  star_stave_pos17  Star_Test  
+#Module    18    1  1   -1 -1 -1 -1  0  0 1 102  1 0  0  50  -1 50 50  star_stave_pos18  Star_Test  
+#Module    19    1  1   -1 -1 -1 -1  0  0 1 102  1 0  0  48  -1 50 50  star_stave_pos19  Star_Test  
+#Module    20    1  1   -1 -1 -1 -1  0  0 1 102  1 0  0  46  -1 50 50  star_stave_pos20  Star_Test  
+#Module    21    1  1   -1 -1 -1 -1  0  0 1 102  1 0  0  14  -1 50 50  star_stave_pos21  Star_Test  
+#Module    22    1  1   -1 -1 -1 -1  0  0 1 102  1 0  0  16  -1 50 50  star_stave_pos22  Star_Test  
+#Module    23    1  1   -1 -1 -1 -1  0  0 1 102  1 0  0  18  -1 50 50  star_stave_pos23  Star_Test  
+#Module    24    1  1   -1 -1 -1 -1  0  0 1 102  1 0  0  20  -1 50 50  star_stave_pos24  Star_Test  
+#Module    25    1  1   -1 -1 -1 -1  0  0 1 102  1 0  0  22  -1 50 50  star_stave_pos25  Star_Test  
+
+#Module    26    1  1   -1 -1 -1 -1  0  0 1 100  1 0  0  34  -1 50 50  star_stave_pos26  Star_Test  
+#Module    27    1  1   -1 -1 -1 -1  0  0 1 100  1 0  0  26  -1 50 50  star_stave_pos27  Star_Test  
+
+#side L
+
+#Module    28    1  1   -1 -1 -1 -1  0  0 1 110  1 0  0  92  -1 50 50  star_stave_pos28  Star_Test 
+#Module    29    1  1   -1 -1 -1 -1  0  0 1 110  1 0  0  94  -1 50 50  star_stave_pos29  Star_Test 
+#Module    30    1  1   -1 -1 -1 -1  0  0 1 110  1 0  0  96  -1 50 50  star_stave_pos30  Star_Test 
+#Module    31    1  1   -1 -1 -1 -1  0  0 1 110  1 0  0  98  -1 50 50  star_stave_pos31  Star_Test 
+#Module    32    1  1   -1 -1 -1 -1  0  0 1 110  1 0  0  64  -1 50 50  star_stave_pos32  Star_Test 
+#Module    33    1  1   -1 -1 -1 -1  0  0 1 110  1 0  0  66  -1 50 50  star_stave_pos33  Star_Test 
+#Module    34    1  1   -1 -1 -1 -1  0  0 1 110  1 0  0  76  -1 50 50  star_stave_pos34  Star_Test 
+#Module    35    1  1   -1 -1 -1 -1  0  0 1 110  1 0  0  78  -1 50 50  star_stave_pos35  Star_Test 
+
+#Module    36    1  1   -1 -1 -1 -1  0  0 1 109  1 0  0  102 -1 50 50  star_stave_pos36  Star_Test 
+#Module    37    1  1   -1 -1 -1 -1  0  0 1 109  1 0  0  118 -1 50 50  star_stave_pos37  Star_Test 
+#Module    38    1  1   -1 -1 -1 -1  0  0 1 109  1 0  0  104 -1 50 50  star_stave_pos38  Star_Test  
+#Module    39    1  1   -1 -1 -1 -1  0  0 1 109  1 0  0  100 -1 50 50  star_stave_pos39  Star_Test  
+#Module    40    1  1   -1 -1 -1 -1  0  0 1 109  1 0  0  72  -1 50 50  star_stave_pos40  Star_Test  
+#Module    41    1  1   -1 -1 -1 -1  0  0 1 109  1 0  0  80  -1 50 50  star_stave_pos41  Star_Test  
+#Module    42    1  1   -1 -1 -1 -1  0  0 1 109  1 0  0  74  -1 50 50  star_stave_pos42  Star_Test  
+#Module    43    1  1   -1 -1 -1 -1  0  0 1 109  1 0  0  70  -1 50 50  star_stave_pos43  Star_Test  
+
+#Module    44    1  1   -1 -1 -1 -1  0  0 1 111  1 0  0  106 -1 50 50  star_stave_pos44  Star_Test  
+#Module    45    1  1   -1 -1 -1 -1  0  0 1 111  1 0  0  108 -1 50 50  star_stave_pos45  Star_Test  
+#Module    46    1  1   -1 -1 -1 -1  0  0 1 111  1 0  0  110 -1 50 50  star_stave_pos46  Star_Test  
+#Module    47    1  1   -1 -1 -1 -1  0  0 1 111  1 0  0  112 -1 50 50  star_stave_pos47  Star_Test  
+#Module    48    1  1   -1 -1 -1 -1  0  0 1 111  1 0  0  114 -1 50 50  star_stave_pos48  Star_Test  
+#Module    49    1  1   -1 -1 -1 -1  0  0 1 111  1 0  0  68  -1 50 50  star_stave_pos49  Star_Test  
+#Module    50    1  1   -1 -1 -1 -1  0  0 1 111  1 0  0  86  -1 50 50  star_stave_pos50  Star_Test  
+#Module    51    1  1   -1 -1 -1 -1  0  0 1 111  1 0  0  84  -1 50 50  star_stave_pos51  Star_Test  
+#Module    52    1  1   -1 -1 -1 -1  0  0 1 111  1 0  0  90  -1 50 50  star_stave_pos52  Star_Test  
+#Module    53    1  1   -1 -1 -1 -1  0  0 1 111  1 0  0  82  -1 50 50  star_stave_pos53  Star_Test  
+
+#Module    54    1  1   -1 -1 -1 -1  0  0 1 108  1 0  0  116 -1 50 50  star_stave_pos54  Star_Test  
+Module     55    1  1   -1 -1 -1 -1  0  0 1 108  1 0  0  88  -1 50 50  star_stave_pos55  Star_Test  
+

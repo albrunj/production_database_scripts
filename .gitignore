@@ -1,0 +1,15 @@
+*~
+*.pyc
+prototype_*.json
+*.json
+*.png
+
+.ipynb_checkpoints/
+
+.coverage
+*,cover
+
+build/
+itk_pdb.egg-info/
+dist/
+pixels/sensors/GUI/.auth

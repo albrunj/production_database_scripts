@@ -1,0 +1,9 @@
+$$$Filename&&&
+$$$Manufacturer&&& $$$Component&&& $$$Component&&& $$$Component&&&
+$$$Settings&&&
+$$$Date&&&, $$$Time&&&
+$$$TestType&&&
+$$$Institute&&&	$$$Instrument&&&	
+Temperature: $$$Temperature[°C]&&&	Humidity: $$$Humidity[%]&&&
+$$$numColumns&&& $$$numRows&&&
+$$$TABLE&&&

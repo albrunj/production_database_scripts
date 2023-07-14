@@ -1,0 +1,4 @@
+Information
+==============================
+
+See [README.md].

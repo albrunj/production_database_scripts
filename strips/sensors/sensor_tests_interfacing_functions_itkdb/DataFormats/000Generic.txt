@@ -1,0 +1,9 @@
+$$$Filename&&&
+$$$BatchWaferShorthand&&&, $$$Manufacturer&&& $$$Type&&&
+$$$Date&&&, $$$Time&&&
+$$$TestType&&&
+$$$Settings&&&
+$$$Instrument&&&
+$$$numColumns&&& $$$numRows&&&
+$$$strFormat&&&
+$$$TABLE&&&

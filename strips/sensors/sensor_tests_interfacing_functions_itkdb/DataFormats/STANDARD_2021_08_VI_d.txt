@@ -1,0 +1,22 @@
+$$$Filename&&&
+Type: $$$Type&&&
+Batch: $$$Batch&&&
+Wafer: $$$Wafer&&&
+Component: $$$Component&&&
+Date: $$$Date&&&
+Time: $$$Time&&&
+Institute: $$$Institute&&&
+TestType: $$$TestType&&&
+RunNumber: $$$RunNumber&&&
+Result: $$$Result&&&
+Comments: $$$Settings&&&
+ScratchPadImage:$$$ScratchPadImage&&&
+Location1:$$$Location1&&&
+DamageType1:$$$DamageType1&&&
+Images1:$$$Images1&&&
+Location2:$$$Location2&&&
+DamageType2:$$$DamageType2&&&
+Images2:$$$Images2&&&
+Location3:$$$Location3&&&
+DamageType3:$$$DamageType3&&&
+Images3:$$$Images3&&&

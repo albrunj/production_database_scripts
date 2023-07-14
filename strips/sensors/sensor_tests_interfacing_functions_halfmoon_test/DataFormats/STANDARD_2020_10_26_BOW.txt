@@ -1,0 +1,16 @@
+$$$Filename&&&
+Type: $$$Type&&&
+Batch: $$$Batch&&&
+Wafer: $$$Wafer&&&
+Component: $$$Component&&&
+Date: $$$Date&&&
+Time: $$$Time&&&
+Institute: $$$Institute&&&
+TestType: $$$TestType&&&
+CMM: $$$CMM&&&
+Probe: $$$Probe&&&
+RunNumber: $$$RunNumber&&&
+Temperature: $$$Temperature[°C]&&&
+Humidity: $$$Humidity[%]&&&
+Comments: $$$Settings&&&
+$$$TABLE&&&

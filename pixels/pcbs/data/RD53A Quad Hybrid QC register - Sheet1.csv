@@ -1,0 +1,258 @@
+Serial numbering for all 3 batches of 3.8s,Date Processed,Flavour,Status,Location,Destination,Number (in silkscreen),Batch,Scans taken?,Shorts on capacitors?,mass (g),hv cap height (mm),connector height (mm),top cu thickness (microns),bot cu thickness (microns),SLDO 1 (kOhms),SLDO 2,SLDO3,SLDO4,Vin drop (V),GND Drop (V),HV leakage (mV on readout card),NTC reading,Temp (°C) (@HV test),humidity (%) (@HV test),Vin drop with jig compensation,GND drop with jig compensation
+20UPGPQ0021001,11/08/2020,Thin,PASS,Japan,,1,1,yes,not tested,1.595,1.85,1.47,24,27,"1.1497,231.699,1.0697,225.600","1.1497,231.691,1.0696,225.657","1.1497,231.697,1.0697,225.588","1.1497,231.842,1.0699,225.590",0.03,0.07,not tested,1.4,24.1,52,0.022,0.059
+20UPGPQ0023001,12/08/2020,Thin,FAIL,Glasgow,,1,3,yes,not tested,1.589,not tested,not tested,26,26,,,,,not tested,not tested,not tested,1.4,22,52,#VALUE!,#VALUE!
+20UPGPQ0021002,11/08/2020,Thin,PASS,Japan,,2,1,yes,not tested,1.635,1.83,1.42,24,27,"1.1497,231.675,1.0694,225.525","1.1497,231.778,1.0699,225.576","1.1497,231.572,1.0697,225.661","1.1509,231.804,1.0697,225.823",0.03,0.02,not tested,1.4,24.1,52,0.022,0.009
+20UPGPQ0023002,12/08/2020,Thin,,Edinburgh,,2,3,yes,no,1.613,not tested,not tested,27,26,,,,,0.561,0.33,24,1.34,22,52,0.553,0.319
+20UPGPQ0021003,12/08/2020,Thin,PASS,Japan,,3,1,yes,not tested,1.613,1.89,1.43,28,27,"1.1495,231.644,1.0695,225.581","1.1497,231.588,1.0697,225.674","1.1495,231.636,1.0695,225.759","1.1495,231.540,1.0698,225.664",0.04,0.06,not tested,1.4,24.1,52,0.032,0.049
+20UPGPQ0023003,12/08/2020,Thin,,Glasgow,,3,3,yes,no,1.593,not tested,not tested,27,26,,,,,0.383,0.16,114.18,1.4,22,52,0.375,0.149
+20UPGPQ0021004,12/08/2020,Thin,PASS,Japan,,4,1,yes,not tested,1.652,1.91,1.4,26,28,"1.1492,231.666,1.0698,225.568","1.149,231.604,1.0698,225.549","1.1496,231.700,1.0698,225.554","1.1493,231.685,1.0697,225.367",0.03,0.11,not tested,1.4,24.1,52,0.022,0.099
+20UPGPQ0023004,12/08/2020,Thin,Fail,Glasgow,,4,3,yes,not tested,1.611,not tested,not tested,27,25,,,,,0.439,0.31,16,1.34,22,52,0.431,0.299
+20UPGPQ0021005,12/08/2020,Thin,PASS,Japan,,5,1,yes,not tested,1.678,1.72,1.47,27,28,"1.15,231.4,1.07,225.4","1.15,231.5,1.07,225.5","1.15,231.5,1.07,225.5","1.15,231.2,1.07,225.3",0.277,0.265,not tested,1.295,24.4,55,0.269,0.254
+20UPGPQ0021006,12/08/2020,Thin,PASS,Japan,,6,1,yes,not tested,1.671,1.68,1.46,27,29,"1.15,231.5,1.07,225.4","1.149,231.5,1.069,225.5","1.149,231.4,1.07,225.4","1.149,231.5,1.071,225.4",0.28,0.26,not tested,1.29,24.4,55,0.272,0.249
+20UPGPQ0021007,12/08/2020,Thin,PASS,Japan,,7,1,yes,not tested,1.692,1.73,1.51,26,30,"1.149,231.4,1.07,225.5","1.15,231.5,1.069,225.4","1.15,231.4,1.07,225.6","1.15,231.4,1.07,225.4",0.279,0.25,not tested,1.3,24.4,55,0.271,0.239
+20UPGPQ0021008,12/08/2020,Thin,PASS,Japan,,8,1,yes,not tested,1.689,1.67,1.49,28,27,"1.15,231.4,1.07,225.5","1.15,231.4,1.07,225.5","1.15,231.6,1.07,225.5","1.149,231.4,1.07,225.4",0.269,0.24,not tested,1.31,24.2,55,0.261,0.229
+20UPGPQ0021009,12/08/2020,Thin,PASS,Japan,,9,1,yes,not tested,1.58,1.65,1.47,25,25,"1.15,231.6,1.071,225.6","1.15,231.4,1.07,225.6","1.151,231.4,1.07,225.5","1.15,231.3,1.07,225.4",0.29,0.299,not tested,1.26,24.2,55,0.282,0.288
+20UPGPQ0023009,12/08/2020,Thin,,Edinburgh,,9,3,yes,no,1.599,not tested,not tested,28,29,,,,,0.55,0.34,23,1.36,22,55,0.542,0.329
+20UPGPQ0021010,12/08/2020,Thin,PASS,Japan,,10,1,yes,not tested,1.599,1.68,1.53,25,25,"1.149,231.5,1.07,225.5","1.15,231.4,1.07,225.4","1.15,231.5,1.07,225.5","1.149,231.5,1.07,225.4",0.29,0.299,not tested,1.28,24.2,55,0.282,0.288
+20UPGPQ0023010,08/09/2020,Thin,,Edinburgh,,10,3,yes,no,1.607,not tested,not tested,27,28,,,,,0.444,0.22,94.91,1.5,22,55,0.436,0.209
+20UPGPQ0021011,12/08/2020,Thin,PASS,Japan,,11,1,yes,not tested,1.55,1.62,1.44,24,25,"1.15,231.4,1.07,225.4","1.15,231.5,1.07,225.3","1.15,231.4,1.07,225.4,1.15,231.31.07,225.5",,0.36,0.32,not tested,1.26,24.5,52,0.352,0.309
+20UPGPQ0023011,08/09/2020,Thin,,Edinburgh,,11,3,yes,reworked,1.583,not tested,not tested,26,26,,,,,0.414,0.2,31.77,1.39,22,52,0.406,0.189
+20UPGPQ0021012,12/08/2020,Thin,PASS,Japan,,12,1,yes,not tested,1.578,1.6,1.43,25,23,"1.15,231.5,1.07,225.6","1.15,231.6,1.07,225.6","1.15,231.6,1.069,225.4","1.149,231.6,1.07,225.5",0.299,0.31,not tested,1.3,24.5,52,0.291,0.299
+20UPGPQ0023012,08/09/2020,Thin,,Edinburgh,,12,3,yes,no,1.595,not tested,not tested,27,27,,,,,0.364,0.22,91.66,1.47,22,52,0.356,0.209
+20UPGPQ0021013,12/08/2020,Thin,PASS,Japan,,13,1,yes,not tested,1.618,1.73,1.47,29,26,"1.149,231.5,1.07,225.4","1.149,231.4,1.069,225.3","1.150,231.4,1.07,225.4","1.150,231.5,1.07,225.3",0.269,0.26,not tested,1.3,24.4,55,0.261,0.249
+20UPGPQ0023013,23/09/2020,Thin,,US,,13,3,yes,no,1.602,not tested,not tested,24,21,,,,,0.293,0.21,80.52,1.35,22,55,0.285,0.199
+20UPGPQ0021014,13/08/2020,Thin,PASS,Japan,,14,1,yes,no,1.61,1.68,1.5,27,23,"1.15,231.4,1.07,225.4","1.15,231.5,1.07,225.4,1.15,231.5,1.07,225.5",,"1.149,231.4,1.07,225.5",0.279,0.31,not tested,1.27,24.1,54,0.271,0.299
+20UPGPQ0023014,23/09/2020,Thin,,Argonne,,14,3,yes,not tested,1.603,not tested,not tested,25,24,,,,,0.303,0.14,71.5,1.37,22,55,0.295,0.129
+20UPGPQ0021015,13/08/2020,Thin,PASS,Japan,,15,1,yes,not tested,1.603,1.72,1.45,28,26,"1.15,231.5,1.07,225.5","1.149,231.5,1.07,225.3","1.15,231.5,1.07,225.5","1.15,231.4,1.07,225.5",0.279,0.27,not tested,1.29,24.1,55,0.271,0.259
+20UPGPQ0021016,13/08/2020,Thin,PASS,Japan,,16,1,yes,not tested,1.595,1.72,1.5,26,23,"1.149,231.6,1.07,225.5","1.15,231.5,1.07,225.5","1.150,231.5,1.07,225.5,1.150,231.6,1.07,225.5",,0.31,0.27,not tested,1.31,24.2,55,0.302,0.259
+20UPGPQ0023016,23/09/2020,Thin,,Edinburgh,,16,3,yes,no,1.595,not tested,not tested,25,26,,,,,0.303,0.14,65.26,1.47,22,55,0.295,0.129
+20UPGPQ0021021,13/08/2020,Thin,PASS,Japan,,21,1,yes,not tested,1.63,1.63,1.44,26,27,"1.15,231.4,1.07,225.6","1.15,231.3,1.07,225.6","1.149,231.4,1.07,225.4","1.15,231.5,1.07,225.4",0.294,0.27,not tested,1.27,24.2,55,0.286,0.259
+20UPGPQ0023021,12/08/2020,Thin,,US,,21,3,yes,no,1.611,not tested,not tested,28,27,,,,,0.423,0.13,87,1.44,22,55,0.415,0.119
+20UPGPQ0021022,13/08/2020,Thin,PASS,Japan,,22,1,yes,not tested,1.633,1.65,1.5,27,24,"1.15,231.5,1.07,225.4","1.15,231.3,1.07,225.4","1.15,231.5,1.07,225.5","1.15,231.3,1.069,225.4",0.299,0.28,not tested,1.29,24.2,55,0.291,0.269
+20UPGPQ0023022,12/08/2020,Thin,,Edinburgh,,22,3,yes,no,1.618,not tested,not tested,28,27,,,,,0.14,0.283,83.1,1.45,22,55,0.132,0.272
+20UPGPQ0021023,13/08/2020,Thin,PASS,Japan,,23,1,yes,not tested,1.655,1.66,1.5,23,23,"1.151,231.5,1.07,225.3","1.15,231.5,1.07,225.3","1.150,231.5,1.07,225.5","1.15,231.4,1.07,225.5",0.44,0.3,not tested,1.27,24.2,55,0.432,0.289
+20UPGPQ0023023,12/08/2020,Thin,,US,,23,3,yes,no,1.608,not tested,not tested,28,27,,,,,0.299,0.13,101.23,1.41,22,55,0.291,0.119
+20UPGPQ0021024,13/08/2020,Thin,PASS,Japan,,24,1,yes,not tested,1.636,1.65,1.48,27,27,"1.15,231.5,1.07,225.5","1.15,231.4,1.07,225.6,","1.15,231.4,1.07,225.4","1.149,231.3,1.07,225.5",0.289,0.29,not tested,1.31,24.3,55,0.281,0.279
+20UPGPQ0023024,12/08/2020,Thin,PASS,US,,24,3,yes,no,1.617,not tested,not tested,29,29,,,,,0.433,0.11,92.55,1.43,22,55,0.425,0.099
+20UPGPQ0021025,13/08/2020,Thin,PASS,Argonne,,25,1,yes,no,1.584,not tested,not tested,24,29,,,,,0.339,0.32,7,1.33,22,52,0.331,0.309
+20UPGPQ0021026,13/08/2020,Thin,PASS,Edinburgh,,26,1,yes,no,1.589,not tested,not tested,25,26,,,,,0.319,0.28,11,1.33,22,52,0.311,0.269
+20UPGPQ0022026,,,PASS,,,26,2,yes,reworked,1.588,,,,,,,,,0.343,0.12,31.63,1.44,,,,
+20UPGPQ0021027,13/08/2020,Thin,PASS,Argonne,,27,1,yes,no,1.587,not tested,not tested,27,27,,,,,0.339,0.31,8,1.31,22,52,0.331,0.299
+20UPGPQ0021028,13/08/2020,Thin,PASS,Edinburgh,,28,1,yes,reworked,1.598,not tested,not tested,27,25,,,,,0.339,0.3,8,1.3,22,52,0.331,0.289
+20UPGPQ0021029,13/08/2020,Thin,PASS,Argonne,,29,1,yes,no,1.634,not tested,not tested,24,28,,,,,0.339,0.3,9,1.28,22,52,0.331,0.289
+20UPGPQ0021030,13/08/2020,Thin,PASS,Argonne,,30,1,yes,no,1.62,not tested,not tested,25,26,,,,,0.399,0.27,9,1.32,22,52,0.391,0.259
+20UPGPQ0021031,13/08/2020,Thin,PASS,CERN,,31,1,yes,No,1.64,not tested,not tested,27,29,,,,,0.339,0.29,5,1.32,22,52,0.331,0.279
+20UPGPQ0021032,13/08/2020,Thin,PASS,CERN,,32,1,yes,No,1.638,not tested,not tested,27,26,,,,,0.349,0.27,6,1.32,22,52,0.341,0.259
+20UPGPQ0021033,13/08/2020,Thin,PASS,CERN,,33,1,yes,No,1.59,not tested,not tested,25,23,,,,,0.32,0.29,9,1.26,22,52,0.312,0.279
+20UPGPQ0021034,13/08/2020,Thin,PASS,CERN,,34,1,yes,No,1.63,not tested,not tested,25,24,,,,,0.319,0.28,8,1.33,22,52,0.311,0.269
+20UPGPQ0021035,13/08/2020,Thin,PASS,CERN,,35,1,yes,No,1.606,not tested,not tested,28,25,,,,,0.359,0.3,13,1.27,24.1,52,0.351,0.289
+20UPGPQ0021036,13/08/2020,Thin,PASS,Japan,,36,1,yes,not tested,1.631,not tested,not tested,28,27,"1.15,231.6,1.071,225.6",,,,0.299,0.25,not tested,1.24,24.1,52,0.291,0.239
+20UPGPQ0021041,13/08/2020,Thin,PASS,Argonne,,41,1,yes,no,1.597,not tested,not tested,24,24,,,,,0.349,0.31,6,1.29,24,52,0.341,0.299
+20UPGPQ0023041,11/09/2020,Thin,PASS,US,,41,3,yes,no,1.61,not tested,not tested,25,26,,,,,0.293,0.12,62.12,1.44,22,52,0.285,0.109
+20UPGPQ0021042,13/08/2020,Thin,PASS,argonne,,42,1,yes,no,1.616,not tested,not tested,25,24,,,,,0.319,0.29,5,1.26,22,52,0.311,0.279
+20UPGPQ0023042,09/09/2020,Thin,PASS,Edinburgh,,42,3,yes,no,1.634,not tested,not tested,26,27,,,,,0.283,0.12,57.03,1.5,22,52,0.275,0.109
+20UPGPQ0021043,13/08/2020,Thin,PASS,Edinburgh,,43,1,yes,reworked,1.603,not tested,not tested,25,25,,,,,0.349,0.3,8,1.29,22,52,0.341,0.289
+20UPGPQ0023043,11/09/2020,Thin,PASS,Argonne,,43,3,yes,no,1.607,not tested,not tested,25,27,,,,,0.333,0.12,66.94,1.4,22,52,0.325,0.109
+20UPGPQ0021044,13/08/2020,Thin,PASS,Argonne,,44,1,yes,no,1.623,not tested,not tested,26,25,,,,,0.319,0.28,7,1.31,22,52,0.311,0.269
+20UPGPQ0023044,09/09/2020,Thin,PASS,Edinburgh,,44,3,yes,reworked,1.631,not tested,not tested,28,28,,,,,0.353,0.13,30.63,1.4,22,52,0.345,0.119
+20UPGPQ0021045,13/08/2020,Thin,PASS,Argonne,,45,1,yes,no,1.632,not tested,not tested,29,29,,,,,0.369,0.38,11,1.33,22,52,0.361,0.369
+20UPGPQ0021046,13/08/2020,Thin,PASS,Argonne,,46,1,yes,no,1.622,not tested,not tested,29,28,,,,,0.329,0.33,9,1.32,22,52,0.321,0.319
+20UPGPQ0021047,13/08/2020,Thin,PASS,Argonne,,47,1,yes,no,1.654,not tested,not tested,28,29,,,,,0.339,0.25,10,1.29,22,52,0.331,0.239
+20UPGPQ0021048,13/08/2020,Thin,Fail,Glasgow,,48,1,yes,not tested,1.64,not tested,not tested,26,26,,,,,Not tested,Not tested,Not tested,Not tested,22,52,#VALUE!,#VALUE!
+20UPGPQ0021054,16/09/2020,Thin,PASS,Argonne,,54,1,yes,no,1.647,not tested,not tested,24,27,,,,,0.323,0.11,68.19,1.45,22,52,0.315,0.099
+20UPGPQ0021055,16/09/2020,Thin,PASS,Edinburgh,,55,1,yes,no,1.665,not tested,not tested,28,30,,,,,0.303,0.12,69.57,1.47,22,52,0.295,0.109
+20UPGPQ0021061,09/09/2020,Thin,PASS,US,,61,1,yes,no,1.646,not tested,not tested,24,24,,,,,0.263,0.12,57.7,1.46,22,52,0.255,0.109
+20UPGPQ0021062,14/09/2020,Thin,PASS,US,,62,1,yes,no,1.638,not tested,not tested,27,27,,,,,0.263,0.11,122.09,1.32,22,52,0.255,0.099
+20UPGPQ0023062,23/09/2020,Thin,PASS,Edinburgh,,62,3,yes,reworked,1.634,not tested,not tested,25,27,,,,,0.324,0.13,32,1.43,22,52,0.316,0.119
+20UPGPQ0021063,09/09/2020,Thin,PASS,Argonne,,63,1,yes,no,1.622,not tested,not tested,26,26,,,,,0.273,0.1,86.21,1.4,22,52,0.265,0.089
+20UPGPQ0023063,23/09/2020,Thin,FAIL -Missing capacitors,Edinburgh,,63,3,yes,not tested,1.636,not tested,not tested,27,26,,,,,0.303,0.12,65.8,1.47,22,52,0.295,0.109
+20UPGPQ0021064,09/09/2020,Thin,PASS,US,,64,1,yes,no,1.613,not tested,not tested,25,26,,,,,0.293,0.1,80.55,1.44,22,52,0.285,0.089
+20UPGPQ0023064,23/09/2020,Thin,PASS,Edinburgh,,64,3,yes,no,1.629,not tested,not tested,26,27,,,,,0.333,0.12,28.28,1.38,22,52,0.325,0.109
+20UPGPQ0021065,23/09/2020,Thin,PASS,Argonne,,65,1,yes,no,1.633,not tested,not tested,25,26,,,,,0.303,0.17,58.29,1.46,22,52,0.295,0.159
+20UPGPQ0021066,23/09/2020,Thin,PASS,Argonne,,66,1,yes,no,1.651,not tested,not tested,26,27,,,,,0.283,0.13,50.98,1.5,22,52,0.275,0.119
+20UPGPQ0021067,23/09/2020,Thin,PASS,US,,67,1,yes,no,1.645,not tested,not tested,28,28,,,,,0.293,0.17,98.85,1.43,22,52,0.285,0.159
+20UPGPQ0021074,23/09/2020,Thin,PASS,Edinburgh,,74,1,yes,yes,1.655,not tested,not tested,28,27,,,,,0.303,0.43,77.82,1.45,22,52,0.295,0.419
+20UPGPQ0021075,23/09/2020,Thin,PASS,Argonne,,75,1,yes,no,1.641,not tested,not tested,27,26,,,,,0.304,0.12,51.65,1.53,22,52,0.296,0.109
+20UPGPQ0021076,23/09/2020,Thin,PASS,Argonne,,76,1,yes,no,1.66,not tested,not tested,28,27,,,,,0.293,0.13,71.4,1.31,22,52,0.285,0.119
+20UPGPQ0021081,12/08/2020,Thin,PASS,Argonne,,81,1,yes,no,1.66,not tested,not tested,27,32,,,,,0.479,0.31,10,1.36,22,52,0.471,0.299
+20UPGPQ0021082,12/08/2020,Thin,PASS,Edinburgh,,82,1,yes,no,1.671,not tested,not tested,27,30,,,,,0.393,0.15,80.79,1.46,22,52,0.385,0.139
+20UPGPQ0021083,12/08/2020,Thin,PASS,argonne,,83,1,yes,no,1.636,not tested,not tested,26,28,,,,,0.54,0.36,15,1.32,22,52,0.532,0.349
+20UPGPQ0021084,12/08/2020,Thin,PASS,US,,84,1,yes,no,1.647,not tested,not tested,25,29,,,,,0.403,0.19,95.65,1.42,22,52,0.395,0.179
+20UPGPQ0021089,15/09/2020,Thin,PASS,argonne,,89,1,yes,no,1.62,not tested,not tested,25,25,,,,,0.272,0.1,107.71,1.37,22,52,0.264,0.089
+20UPGPQ0021090,15/09/2020,Thin,PASS,argonne,,90,1,yes,no,1.633,not tested,not tested,25,28,,,,,0.303,0.11,95.84,1.38,22,52,0.295,0.099
+20UPGPQ0021091,15/09/2020,Thin,PASS,US,,91,1,yes,no,1.621,not tested,not tested,26,26,,,,,0.282,0.11,94.24,1.37,22,52,0.274,0.099
+20UPGPQ0021093,09/09/2020,Thin,PASS,US,,93,1,yes,no,1.636,not tested,not tested,28,28,,,,,0.283,0.12,53.84,1.44,22,52,0.275,0.109
+20UPGPQ0021094,14/09/2020,Thin,PASS,argonne,,94,1,yes,no,1.616,not tested,not tested,25,27,,,,,0.272,0.12,93.41,1.4,22,52,0.264,0.109
+20UPGPQ0021095,14/09/2020,Thin,PASS,argonne,,95,1,yes,no,1.646,not tested,not tested,26,29,,,,,0.273,0.1,102.49,1.36,22,52,0.265,0.089
+20UPGPQ0021096,09/09/2020,Thin,PASS,Edinburgh,,96,1,yes,no,1.623,not tested,not tested,26,26,,,,,,,,,22,52,-0.008,-0.011
+20UPGPQ0021097,09/09/2020,Thin,PASS,Argonne,,97,1,yes,no,1.652,not tested,not tested,27,28,,,,,0.334,0.18,70.62,1.49,22,52,0.326,0.169
+20UPGPQ0021098,09/09/2020,Thin,PASS,US,,98,1,yes,no,1.659,not tested,not tested,28,29,,,,,0.363,0.14,78.59,1.45,22,52,0.355,0.129
+20UPGPQ0021099,09/09/2020,Thin,PASS,US,,99,1,yes,no,1.635,not tested,not tested,26,29,,,,,0.363,0.13,65.45,1.49,22,52,0.355,0.119
+20UPGPQ0021100,12/08/2020,Thin,PASS,argonne,,100,1,yes,no,1.642,not tested,not tested,27,28,,,,,0.36,0.18,66,1.5,22,52,0.352,0.169
+20UPGPQ0021101,16/09/2020,Thin,PASS,argonne,,101,1,yes,no,1.644,not tested,not tested,25,25,,,,,0.335,0.13,69.13,1.47,22,52,0.327,0.119
+20UPGPQ0021102,16/09/2020,Thin,PASS,argonne,,102,1,yes,no,1.631,not tested,not tested,23,26,,,,,0.324,0.11,69.81,1.48,22,52,0.316,0.099
+20UPGPQ0021103,16/09/2020,Thin,PASS,US,,103,1,yes,no,1.63,not tested,not tested,24,26,,,,,0.373,0.14,81.85,1.39,22,52,0.365,0.129
+20UPGPQ0021104,16/09/2020,Thin,PASS,US,,104,1,yes,no,1.614,not tested,not tested,25,26,,,,,0.313,0.1,82.21,1.41,22,52,0.305,0.089
+20UPGPQ0021105,12/08/2020,Thin,PASS,US,,105,1,yes,no,1.618,not tested,not tested,27,26,,,,,0.303,0.12,74.62,1.35,22,52,0.295,0.109
+20UPGPQ0021106,12/08/2020,Thin,FAIL,Glasgow,,106,1,yes,no,1.622,not tested,not tested,26,28,,,,,Not tested,Not tested,Not tested,Not tested,22,52,#VALUE!,#VALUE!
+20UPGPQ0021107,07/09/2020,Thin,PASS,US,,107,1,yes,no,1.619,not tested,not tested,27,30,,,,,0.323,0.14,87.61,1.45,22,52,0.315,0.129
+20UPGPQ0021108,12/08/2020,Thin,PASS,US,,108,1,yes,no,1.63,not tested,not tested,26,28,,,,,0.33,0.17,53.3,1.4,22,52,0.322,0.159
+20UPGPQ0021109,07/09/2020,Thin,PASS,Argonne,,109,1,yes,reworked,1.605,not tested,not tested,24,25,,,,,0.363,0.26,98.44,1.41,22,52,0.355,0.249
+20UPGPQ0021110,07/09/2020,Thin,PASS,Edinburgh,,110,1,yes,reworked,1.591,not tested,not tested,27,29,,,,,0.394,0.12,30.17,1.42,22,52,0.386,0.109
+20UPGPQ0021111,20/09/2020,Thin,PASS,US,,111,1,yes,no,1.609,not tested,not tested,24,27,,,,,0.433,0.16,128.57,1.4,22,52,0.425,0.149
+20UPGPQ0021112,20/09/2020,Thin,PASS,US,,112,1,yes,no,1.598,not tested,not tested,25,26,,,,,0.13,0.353,138.19,1.38,22,52,0.122,0.342
+20UPGPQ0021117,20/09/2020,Thin,PASS,Glasgow,,117,1,yes,no,1.627,not tested,not tested,26,25,,,,,0.313,0.3,1,1.29,22,52,0.305,0.289
+20UPGPQ0021118,07/09/2020,Thin,PASS,Glasgow,,118,1,yes,no,1.611,not tested,not tested,27,27,,,,,0.476,0.18,87.906,1.468,22,52,0.468,0.169
+20UPGPQ0021119,12/08/2020,Thin,PASS,Glasgow,,119,1,yes,no,1.65,not tested,not tested,28,27,,,,,0.353,0.21,88.64,1.43,22,52,0.345,0.199
+20UPGPQ0021120,12/08/2020,Thin,PASS,Edinburgh,,120,1,yes,no,1.636,not tested,not tested,28,26,,,,,,,,,22,52,-0.008,-0.011
+20UPGPQ0021121,12/08/2020,Thin,PASS,Glasgow,,121,1,yes,no,1.666,not tested,not tested,30,30,,,,,0.348,0.14,92.096,1.45,22,52,0.34,0.129
+20UPGPQ0021122,08/09/2020,Thin,PASS,Glasgow,,122,1,yes,no,1.669,not tested,not tested,29,28,,,,,0.333,0.12,94.32,1.44,22,52,0.325,0.109
+20UPGPQ0021123,08/09/2020,Thin,PASS,Glasgow,,123,1,yes,no,1.657,not tested,not tested,30,29,,,,,0.343,0.17,106.83,1.38,22,52,0.335,0.159
+20UPGPQ0021124,08/09/2020,Thin,PASS,Glasgow,,124,1,yes,no,1.656,not tested,not tested,30,30,,,,,0.313,0.13,99.81,1.42,22,52,0.305,0.119
+20UPGPQ0021126,23/09/2020,Thin,PASS,Argonne,,126,1,yes,no,1.636,not tested,not tested,25,25,,,,,0.333,0.15,0.51,1.52,22,52,0.325,0.139
+20UPGPQ0021127,23/09/2020,Thin,FAIL,Glasgow,,127,1,yes,not tested,1.647,not tested,not tested,26,27,,,,,Not tested,Not tested,Not tested,Not tested,22,52,#VALUE!,#VALUE!
+20UPGPQ0021128,23/09/2020,Thin,PASS,argonne,,128,1,yes,no,1.615,not tested,not tested,26,26,,,,,0.313,0.14,66.85,1.42,22,52,0.305,0.129
+20UPGPQ0021134,23/09/2020,Thin,PASS,Argonne,,134,1,yes,no,1.611,not tested,not tested,24,25,,,,,0.323,0.16,56.63,1.54,22,52,0.315,0.149
+20UPGPQ0021135,23/09/2020,Thin,PASS,Argonne,,135,1,yes,no,1.625,not tested,not tested,25,25,,,,,0.283,0.11,58.19,1.5,22,52,0.275,0.099
+20UPGPQ0021136,23/09/2020,Thin,PASS,US,,136,1,yes,no,1.599,not tested,not tested,22,24,,,,,0.303,0.13,65.86,1.48,22,52,0.295,0.119
+20UPGPQ0021137,15/09/2020,Thin,PASS,Argonne,,137,1,yes,no,1.633,not tested,not tested,25,27,,,,,0.323,0.1,110.25,1.33,22,52,0.315,0.089
+20UPGPQ0021138,15/09/2020,Thin,PASS,Argonne,,138,1,yes,no,1.643,not tested,not tested,25,26,,,,,0.312,0.13,112.54,1.27,22,52,0.304,0.119
+20UPGPQ0021139,15/09/2020,Thin,PASS,argonne,,139,1,yes,no,1.648,not tested,not tested,28,29,,,,,0.293,0.13,94.22,1.43,22,52,0.285,0.119
+20UPGPQ0021140,15/09/2020,Thin,PASS,argonne,,140,1,yes,no,1.646,not tested,not tested,28,29,,,,,0.343,0.11,88.51,1.42,22,52,0.335,0.099
+20UPGPQ0021145,09/09/2020,Thin,PASS,US,,145,1,yes,no,1.604,not tested,not tested,25,25,,,,,0.293,0.18,82.61,1.45,22,52,0.285,0.169
+20UPGPQ0021146,09/09/2020,Thin,PASS,Edinburgh,,146,1,yes,reworked,1.623,not tested,not tested,,,,,,,0.506,0.24,33.81,1.33,22,52,0.498,0.229
+20UPGPQ0021147,09/09/2020,Thin,PASS,Argonne,,147,1,yes,no,1.596,not tested,not tested,27,26,,,,,0.323,0.15,83.05,1.44,22,52,0.315,0.139
+20UPGPQ0021148,14/09/2020,Thin,PASS,Edinburgh,,148,1,yes,reworked,1.625,not tested,not tested,28,28,,,,,0.576,0.22,33.28,1.47,22,52,0.568,0.209
+20UPGPQ0021159,,Thin,,,,159,1,yes,,,,,,,,,,,0.385,0.14,31.78,1.42,22.6,36,,
+20UPGPQ0021160,15/09/2020,Thin,PASS,Argonne,,160,1,yes,no,1.618,not tested,not tested,25,26,,,,,0.293,0.12,95.64,1.4,22,52,0.285,0.109
+20UPGPQ0021166,15/09/2020,Thin,PASS,Argonne,,166,1,yes,no,1.622,not tested,not tested,25,28,,,,,0.303,0.11,104.84,1.37,22,52,0.295,0.099
+20UPGPQ0021167,15/09/2020,Thin,PASS,US,,167,1,yes,no,1.638,not tested,not tested,26,27,,,,,0.303,0.12,81.32,1.43,22,52,0.295,0.109
+20UPGPQ0021168,,Thin,,,,168,1,,,,,,,,,,,,0.335,0.17,30.36,1.43,22.6,36,,
+20UPGPQ0021169,12/08/2020,Thin,PASS,US,,169,1,yes,no,1.583,not tested,not tested,27,25,,,,,0.282,0.14,112.46,1.42,22,52,0.274,0.129
+20UPGPQ0021170,12/08/2020,Thin,PASS,US,,170,1,yes,no,1.612,not tested,not tested,26,24,,,,,0.292,0.2,124.04,1.37,22,52,0.284,0.189
+20UPGPQ0021171,12/08/2020,Thin,PASS,Edinburgh,,171,1,yes,reworked,1.607,not tested,not tested,27,26,,,,,0.363,0.12,33.38,1.38,22,52,0.355,0.109
+20UPGPQ0021172,12/08/2020,Thin,PASS,US,,172,1,yes,no,1.639,not tested,not tested,28,27,,,,,0.273,0.09,115.6,1.41,22,52,0.265,0.079
+20UPGPQ0021173,15/09/2020,Thin,PASS,US,,173,1,yes,no,1.639,not tested,not tested,26,28,,,,,0.323,0.11,85.03,1.44,22,52,0.315,0.099
+20UPGPQ0021174,16/09/2020,Thin,PASS,Argonne,,174,1,yes,no,1.636,not tested,not tested,27,26,,,,,0.313,0.09,96.48,1.33,22,52,0.305,0.079
+20UPGPQ0021175,16/09/2020,Thin,PASS,Argonne,,175,1,yes,no,1.658,not tested,not tested,29,27,,,,,0.303,0.1,67.56,1.45,22,52,0.295,0.089
+20UPGPQ0021176,16/09/2020,Thin,PASS,US,,176,1,yes,no,1.653,not tested,not tested,29,25,,,,,0.312,0.11,78.86,1.42,22,52,0.304,0.099
+20UPGPQ0021177,16/09/2020,Thin,PASS,Argonne,,177,1,yes,no,1.65,not tested,not tested,25,27,,,,,0.293,0.13,89.64,1.33,22,52,0.285,0.119
+20UPGPQ0021178,16/09/2020,Thin,PASS,US,,178,1,yes,no,1.665,not tested,not tested,25,28,,,,,0.293,0.1,81.46,1.26,22,52,0.285,0.089
+20UPGPQ0021179,15/09/2020,Thin,PASS,Argonne,,179,1,yes,no,1.663,not tested,not tested,25,28,,,,,0.313,0.13,82.28,1.44,22,52,0.305,0.119
+20UPGPQ0012001,12/05/2020,Thick,PASS,LBL,,1,2,yes,not tested,1.776,1.96,1.43,32,32,"1.1497,231.626,1.0695,225.516","1.1495,231.720,1.0700,225.529","1.1499,231.600,1.0699,225.582","1.1497,231.586,1.0696,225.575",0.03,0.1,not tested,1.4,not tested,not tested,0.022,0.089
+20UPGPQ0012002,12/05/2020,Thick,PASS,LBL,,2,2,yes,not tested,1.775,1.97,1.45,31,32,"1.1498,231.590,1.0699,225.570","1.1496,231.522,1.0697,225.579","1.1495,231.683,1.0696,225.676","1.150,231.543,1.0699,225.50",0.02,0.14,not tested,1.4,not tested,not tested,0.012,0.129
+20UPGPQ0012003,12/05/2020,Thick,PASS,LBL,,3,2,yes,not tested,1.8,1.92,1.43,28,28,"1.1497,231.577,1.0694,225.516","1.1497,231.688,1.07,225.562","1.1491,231.716,1.0696,225.589","1.1498,231.626,1.0697,225.592",0.02,0.14,not tested,1.4,not tested,not tested,0.012,0.129
+20UPGPQ0012004,12/05/2020,Thick,PASS,LBL,,4,2,yes,not tested,1.801,2,1.43,33,31,"1.1497,231.544,1.0696,225.594,","1.1496,231.612,1.0695,225.595","1.1496,231.839,1.0697,225.618","1.1498,231.622,1.0698,225.613",0.03,0.12,not tested,1.4,not tested,not tested,0.022,0.109
+20UPGPQ0012005,12/05/2020,Thick,PASS,LBL,,5,2,yes,not tested,1.755,1.88,1.46,30,31,"1.1497,231.701,1.0697,225.621","1.1494,231.099,1.0697,225.704","1.1496,231.721,1.0696,225.609","1.1498,231.681,1.0699,225.609",0.02,0.11,not tested,1.4,not tested,not tested,0.012,0.099
+20UPGPQ0012006,12/05/2020,Thick,PASS,LBL,,6,2,yes,not tested,1.738,1.91,1.43,32,32,"1.1496,231.605,1.070,225.578","1.1491,231.667,1.0695,225.634","1.1495,231.481,1.0698,225.66","1.1497,231.620,1.0700,225.601",0.02,0.11,not tested,1.4,not tested,not tested,0.012,0.099
+20UPGPQ0012007,12/05/2020,Thick,PASS,LBL,,7,2,yes,not tested,1.767,1.87,1.42,30,29,"1.150,231.662,1.0696,225.589","1.1497,231.635,1.0697,225.622","1.1495,231.582,1.0695,225.545","1.1497,231.592,1.0695,225.646",0.01,0.09,not tested,1.4,not tested,not tested,0.002,0.079
+20UPGPQ0012008,12/05/2020,Thick,PASS,LBL,,8,2,yes,not tested,1.771,1.88,1.41,31,30,"1.494,231.617,1.0697,225.517","1.1496,231.575,1.0696,225.551","1.1498,231.701,1.0697,225.640","1.1497,231.600,1.0698,225.559",0.01,0.15,not tested,1.4,not tested,not tested,0.002,0.139
+20UPGPQ0012009,12/05/2020,Thick,PASS,LBL,,9,2,yes,not tested,1.72,1.85,1.42,31,30,"1.1494,231.593,1.0698,225.595,","1.1497,231.572,1.0695,225.541","1.1495,231.504,1.0696,225.627","1.1495,231.574,1.0696,225.425",0.01,0.11,not tested,1.4,not tested,not tested,0.002,0.099
+20UPGPQ0012010,12/05/2020,Thick,PASS,LBL,,10,2,yes,not tested,1.722,1.9,1.4,29,30,"1.1497,231.628,1.069,225.661",",1.150,231.532,1.0707,225.6463","1.149,231.741,1.0698,225.593","1.1505,231.601,1.0698225.581",0.01,0.11,not tested,1.4,not tested,not tested,0.002,0.099
+20UPGPQ0012011,12/05/2020,Thick,PASS,LBL,,11,2,yes,not tested,1.727,1.91,1.43,33,31,"1.1496,231.663,1.0694,225.788","1.1495,231.798,1.0695,225.648","1.1496,231.518,1.0696,225.710","1.150,231.645,1.0696,225.651",0.01,0.1,not tested,1.4,not tested,not tested,0.002,0.089
+20UPGPQ0012012,12/05/2020,Thick,PASS,LBL,,12,2,yes,not tested,1.738,1.86,1.41,31,31,"1.1497,231.699,1.0695,225.506","1.1496,231.685,1.0703,225.654","1.1496,231.590,1.0695,225.655","1.150,231.730,1.0696,225.62",0.01,0.1,not tested,1.4,not tested,not tested,0.002,0.089
+20UPGPQ0012013,13/08/2020,Thick,PASS,Liverpool,,13,2,yes,not tested,1.798,not tested,not tested,29,29,,,,,,,,,not tested,not tested,-0.008,-0.011
+20UPGPQ0012014,13/08/2020,Thick,PASS,Liverpool,,14,2,yes,not tested,1.722,not tested,not tested,28,31,,,,,,,,,not tested,not tested,-0.008,-0.011
+20UPGPQ0012015,13/08/2020,Thick,PASS,Liverpool,,15,2,yes,not tested,1.732,not tested,not tested,30,29,,,,,,,,,not tested,not tested,-0.008,-0.011
+20UPGPQ0012016,13/08/2020,Thick,PASS,Liverpool,,16,2,yes,not tested,1.725,not tested,not tested,29,28,,,,,,,,,not tested,not tested,-0.008,-0.011
+20UPGPQ0012017,13/08/2020,Thick,FAIL,Glasgow,,17,2,yes,not tested,1.781,not tested,not tested,32,34,,,,,0.262,0.36,,1.22,not tested,not tested,0.254,0.349
+20UPGPQ0012018,13/08/2020,Thick,FAIL,Glasgow,,18,2,yes,not tested,1.798,not tested,not tested,33,31,,,,,,,,,not tested,not tested,-0.008,-0.011
+20UPGPQ0012019,13/08/2020,Thick,Fail-Vin Lines shorting,Edinburgh,,19,2,yes,not tested,1.775,not tested,not tested,32,32,,,,,0.34,0.273,,1.33,not tested,not tested,0.332,0.262
+20UPGPQ0012020,13/08/2020,Thick,PASS,Glasgow,,20,2,yes,not tested,1.789,not tested,not tested,31,33,,,,,0.21,0.263,,1.34,not tested,not tested,0.202,0.252
+20UPGPQ0012021,11/08/2020,Thick,PASS,Glasgow,,21,2,yes,not tested,not tested,not tested,not tested,not tested,not tested,not tested,not tested,not tested,not tested,0.289,0.24,not tested,1.36,not tested,not tested,0.281,0.229
+20UPGPQ0012022,11/08/2020,Thick,PASS,Glasgow,,22,2,yes,not tested,not tested,not tested,not tested,not tested,not tested,not tested,not tested,not tested,not tested,0.319,0.26,not tested,1.36,not tested,not tested,0.311,0.249
+20UPGPQ0012023,11/08/2020,Thick,PASS,Glasgow,,23,2,yes,not tested,1.786,not tested,not tested,32,35,"1.15,231.3,1.07,225.4",,,,0.268,0.24,not tested,1.36,not tested,not tested,0.26,0.229
+20UPGPQ0012024,11/08/2020,Thick,PASS,Glasgow,,24,2,yes,not tested,1.789,not tested,not tested,33,32,,,,,0.309,0.28,not tested,1.37,not tested,not tested,0.301,0.269
+20UPGPQ0012025,04/11/2020,Thick,Pass,Glasgow,,25,2,yes,no,not tested,not tested,not tested,31,29,,,,,0.293,0.13,,1.15,not tested,not tested,0.285,0.119
+20UPGPQ0012029,11/08/2020,Thick,PASS,Glasgow,,29,2,yes,not tested,1.701,not tested,not tested,29,29,"1.15,231.4,1.07,225.4",,,,0.289,0.21,not tested,1.32,not tested,not tested,0.281,0.199
+20UPGPQ0012030,11/08/2020,Thick,PASS,Glasgow,,30,2,yes,not tested,1.691,not tested,not tested,28,29,,,,,0.339,0.25,not tested,1.32,not tested,not tested,0.331,0.239
+20UPGPQ0012031,11/08/2020,Thick,PASS,LBL,,31,2,yes,not tested,1.705,not tested,not tested,28,32,,,,,0.289,0.26,not tested,1.34,not tested,not tested,0.281,0.249
+20UPGPQ0012032,11/08/2020,Thick,PASS,Glasgow,,32,2,yes,not tested,1.697,not tested,not tested,30,28,,,,,0.319,0.3,not tested,1.31,not tested,not tested,0.311,0.289
+20UPGPQ0012033,11/08/2020,Thick,PASS,Edinburgh,,33,2,yes,not tested,1.662,not tested,not tested,30,29,"1.149,231.4,1.069,225.3",,,,,,not tested,not tested,not tested,not tested,-0.008,-0.011
+20UPGPQ0012034,11/08/2020,Thick,PASS,Edinburgh,,34,2,yes,not tested,1.655,not tested,not tested,30,30,,,,,,,not tested,not tested,not tested,not tested,-0.008,-0.011
+20UPGPQ0012035,11/08/2020,Thick,PASS,Edinburgh,,35,2,yes,not tested,1.634,not tested,not tested,29,27,,,,,,,not tested,not tested,not tested,not tested,-0.008,-0.011
+20UPGPQ0012036,11/08/2020,Thick,PASS,Liverpool,,36,2,yes,not tested,1.639,not tested,not tested,29,28,,,,,,,not tested,not tested,not tested,not tested,-0.008,-0.011
+20UPGPQ0012037,11/08/2020,Thick,PASS,LBL,,37,2,yes,not tested,1.625,not tested,not tested,29,26,"1.15,231.4,1.07,225.6",,,,0.298,0.27,not tested,1.34,not tested,not tested,0.29,0.259
+20UPGPQ0012039,11/08/2020,Thick,PASS,Goettingen,,39,2,yes,not tested,1.619,not tested,not tested,27,26,,,,,0.31,0.26,not tested,1.33,not tested,not tested,0.302,0.249
+20UPGPQ0012040,11/08/2020,Thick,PASS,Goettingen,,40,2,yes,not tested,1.601,not tested,not tested,28,27,,,,,0.309,0.24,not tested,1.33,not tested,not tested,0.301,0.229
+20UPGPQ0012041,11/08/2020,Thick,PASS,LBL,,41,2,yes,not tested,1.655,1.61,not tested,28,28,,,,,0.278,0.25,not tested,1.35,not tested,not tested,0.27,0.239
+20UPGPQ0012042,11/08/2020,Thick,PASS,LBL,,42,2,yes,not tested,1.679,1.66,not tested,28,26,"1.149,231.5,1.07,225.4",,,,0.299,0.25,not tested,1.34,not tested,not tested,0.291,0.239
+20UPGPQ0012043,11/08/2020,Thick,PASS,LBL,,43,2,yes,not tested,1.656,1.64,not tested,31,29,,,,,0.278,0.26,not tested,1.32,not tested,not tested,0.27,0.249
+20UPGPQ0012044,11/08/2020,Thick,PASS,LBL,,44,2,yes,not tested,1.667,1.61,not tested,31,29,,,,,0.298,0.27,not tested,1.26,not tested,not tested,0.29,0.259
+20UPGPQ0012045,11/08/2020,Thick,PASS,LBL,,45,2,yes,not tested,1.655,1.47,not tested,27,26,,,,,0.289,0.25,not tested,1.28,not tested,not tested,0.281,0.239
+20UPGPQ0012046,11/08/2020,Thick,PASS,LBL,,46,2,yes,not tested,1.647,1.62,not tested,29,29,"1.15,231.4,1.07,225.6,",,,,0.319,0.27,not tested,1.37,not tested,not tested,0.311,0.259
+20UPGPQ0012047,11/08/2020,Thick,PASS,LBL,,47,2,yes,not tested,1.648,1.66,not tested,28,28,,,,,0.319,0.25,not tested,1.36,not tested,not tested,0.311,0.239
+20UPGPQ0012048,11/08/2020,Thick,PASS,LBL,,48,2,yes,not tested,1.639,1.6,not tested,27,27,,,,,0.278,0.26,not tested,1.35,not tested,not tested,0.27,0.249
+20UPGPQ0012049,11/08/2020,Thick,PASS,LBL,,49,2,yes,not tested,1.676,1.66,not tested,26,27,,,,,0.309,0.26,not tested,1.33,not tested,not tested,0.301,0.249
+20UPGPQ0012050,11/08/2020,Thick,PASS,LBL,,50,2,yes,not tested,1.677,1.58,not tested,26,29,"1.15,231.5,1.07,225.4",,,,0.289,0.27,not tested,1.29,not tested,not tested,0.281,0.259
+20UPGPQ0012051,11/08/2020,Thick,PASS,LBL,,51,2,yes,not tested,1.65,1.69,not tested,29,26,,,,,0.278,0.25,not tested,1.29,not tested,not tested,0.27,0.239
+20UPGPQ0012052,11/08/2020,Thick,PASS,LBL,,52,2,yes,not tested,1.655,1.63,not tested,27,25,,,,,0.299,0.24,not tested,1.36,not tested,not tested,0.291,0.229
+20UPGPQ0012053,11/08/2020,Thick,PASS,LBL,,53,2,yes,not tested,1.656,1.64,not tested,26,27,,,,,0.298,0.25,not tested,1.23,not tested,not tested,0.29,0.239
+20UPGPQ0012054,11/08/2020,Thick,PASS,Glasgow,,54,2,yes,not tested,1.625,not tested,not tested,25,27,"1.15,231.4,1.07,225.6",,,,0.32,0.26,not tested,1.32,not tested,not tested,0.312,0.249
+20UPGPQ0012055,11/08/2020,Thick,PASS,LBL,,55,2,yes,not tested,1.626,1.58,not tested,27,27,,,,,0.299,0.25,not tested,1.31,not tested,not tested,0.291,0.239
+20UPGPQ0012056,04/11/2020,Thick,PASS,Glasgow,,56,2,yes,no,1.606,not tested,not tested,25,27,,,,,0.329,0.26,not tested,1.31,not tested,not tested,0.321,0.249
+20UPGPQ0012060,11/08/2020,Thick,PASS,Goettingen,,60,2,yes,not tested,1.624,not tested,not tested,25,26,,,,,0.329,0.26,not tested,1.34,not tested,not tested,0.321,0.249
+20UPGPQ0012061,11/08/2020,Thick,PASS,LBL,,61,2,yes,not tested,1.609,1.6,not tested,26,27,"1.15,231.3,1.07,225.4",,,,0.329,0.28,not tested,1.36,not tested,not tested,0.321,0.269
+20UPGPQ0012062,11/08/2020,Thick,PASS,LBL,,62,2,yes,not tested,1.599,1.62,not tested,27,27,,,,,0.299,0.27,not tested,1.32,not tested,not tested,0.291,0.259
+20UPGPQ0012063,11/08/2020,Thick,PASS,LBL,,63,2,yes,not tested,1.602,1.63,not tested,25,26,,,,,0.299,0.25,not tested,1.36,not tested,not tested,0.291,0.239
+20UPGPQ0012064,11/08/2020,Thick,PASS,LBL,,64,2,yes,not tested,1.589,1.62,not tested,26,26,,,,,0.299,0.26,not tested,1.35,not tested,not tested,0.291,0.249
+20UPGPQ0024007,25/11/2020,Thin,PASS,Edinburgh,,7,4,yes,no,1.568,not tested,not tested,24,24,1.15,231.3,1.07,225.3,0.292,0.1,56.3,1.37,23.4,39,0.284,0.089
+20UPGPQ0024014,25/11/2020,Thin,PASS,Edinburgh,,14,4,yes,no,1.592,not tested,not tested,27,27,,,,,0.333,0.33,87.42,1.32,23.4,39,0.325,0.319
+20UPGPQ0024013,25/11/2020,Thin,PASS,Edinburgh,,13,4,yes,no,1.594,not tested,not tested,25,24,,,,,0.313,0.29,78,1.45,23.4,39,0.305,0.279
+20UPGPQ0024016,25/11/2020,Thin,PASS,Edinburgh,,16,4,yes,no,1.587,not tested,not tested,24,24,,,,,0.385,0.31,84.64,1.41,23.4,39,0.377,0.299
+20UPGPQ0024001,25/11/2020,Thin,PASS,Edinburgh,,1,4,yes,no,1.542,not tested,not tested,20,20,,,,,0.353,0.22,60.59,1.35,23.4,39,0.345,0.209
+20UPGPQ0024044,25/11/2020,Thin,PASS,Edinburgh,,44,4,yes,no,1.535,not tested,not tested,22,25,1.15,231.3,1.07,225.3,0.323,0.12,68,1.22,23.4,39,0.315,0.109
+20UPGPQ0024041,25/11/2020,Thin,PASS,Edinburgh,,41,4,yes,no,1.529,not tested,not tested,24,24,,,,,0.363,0.32,97,1.31,23.4,39,0.355,0.309
+20UPGPQ0024003,25/11/2020,Thin,PASS,Edinburgh,,3,4,yes,no,1.545,not tested,not tested,19,20,,,,,0.343,0.13,58.7,1.36,23.4,39,0.335,0.119
+20UPGPQ0024004,25/11/2020,Thin,PASS,Edinburgh,,4,4,yes,no,1.552,not tested,not tested,21,22,,,,,0.343,0.11,67.95,1.28,23.4,39,0.335,0.099
+20UPGPQ0024015,25/11/2020,Thin,PASS,Edinburgh,,15,4,yes,no,1.579,not tested,not tested,26,25,,,,,0.355,0.11,67.67,1.31,23.4,39,0.347,0.099
+20UPGPQ0024066,26/11/2020,Thin,PASS,Edinburgh,,66,4,yes,no,1.591,not tested,not tested,24,23,,,,,0.353,1.16,48.78,1.43,24.5,37,0.345,1.149
+20UPGPQ0024067,26/11/2020,Thin,PASS,Edinburgh,,67,4,yes,no,1.546,not tested,not tested,23,25,,,,,0.343,0.16,49.65,1.36,24,38,0.335,0.149
+20UPGPQ0024033,26/11/2020,Thin,PASS,Edinburgh,,33,4,yes,no,1.59,not tested,not tested,24,27,,,,,0.343,0.64,49.78,1.48,24,38,0.335,0.629
+20UPGPQ0024068,26/11/2020,Thin,PASS,Edinburgh,,68,4,yes,no,1.558,not tested,not tested,23,26,,,,,0.343,0.11,50.3,1.38,24,38,0.335,0.099
+20UPGPQ0024036,26/11/2020,Thin,PASS,Edinburgh,,36,4,yes,no,1.59,not tested,not tested,26,26,,,,,0.292,0.13,55.68,1.42,24,38,0.284,0.119
+20UPGPQ0024030,26/11/2020,Thin,PASS,Edinburgh,,30,4,yes,no,1.613,not tested,not tested,23,22,,,,,0.293,0.13,48.81,1.4,24,38,0.285,0.119
+20UPGPQ0024035,26/11/2020,Thin,PASS,Edinburgh,,35,4,yes,no,1.59,not tested,not tested,24,27,,,,,0.333,0.12,47.68,1.4,24,38,0.325,0.109
+20UPGPQ0024031,26/11/2020,Thin,PASS,Edinburgh,,31,4,yes,no,1.611,not tested,not tested,24,25,,,,,0.364,0.14,1.42,1.4,24,38,0.356,0.129
+20UPGPQ0024047,26/11/2020,Thin,PASS,Edinburgh,,47,4,yes,no,1.575,not tested,not tested,22,22,,,,,0.334,0.16,51.62,1.4,24,38,0.326,0.149
+20UPGPQ0024048,26/11/2020,Thin,PASS,Edinburgh,,48,4,yes,no,1.583,not tested,not tested,24,27,,,,,0.313,0.13,53.87,1.36,24,38,0.305,0.119
+20UPGPQ0024046,26/11/2020,Thin,PASS,Edinburgh,,46,4,yes,no,1.604,not tested,not tested,23,26,,,,,0.344,0.33,51.9,1.34,24,38,0.336,0.319
+20UPGPQ0024021,26/11/2020,Thin,PASS,Edinburgh,,21,4,yes,no,1.601,not tested,not tested,24,26,,,,,0.364,0.16,56.26,1.3,24,38,0.356,0.149
+20UPGPQ0024022,26/11/2020,Thin,PASS,Edinburgh,,22,4,yes,no,1.606,not tested,not tested,25,25,,,,,0.344,0.13,50.77,1.24,24,38,0.336,0.119
+20UPGPQ0024023,26/11/2020,Thin,PASS,Edinburgh,,23,4,yes,no,1.58,not tested,not tested,22,26,,,,,0.313,0.12,53.49,1.42,24,38,0.305,0.109
+20UPGPQ0024011,26/11/2020,Thin,PASS,Edinburgh,,11,4,yes,no,1.533,not tested,not tested,25,25,,,,,0.373,0.15,54.3,1.43,24,38,0.365,0.139
+20UPGPQ0024010,26/11/2020,Thin,PASS,Edinburgh,,10,4,yes,no,1.561,not tested,not tested,25,26,,,,,0.385,0.13,52.3,1.4,24,38,0.377,0.119
+20UPGPQ0024009,26/11/2020,Thin,PASS,Edinburgh,,9,4,yes,no,1.548,not tested,not tested,25,25,,,,,0.343,0.12,44.27,1.39,24,38,0.335,0.109
+20UPGPQ0024071,27/11/2020,Thin,PASS,Edinburgh,,71,4,yes,no,1.589,not tested,not tested,24,27,,,,,0.373,0.12,42.06,1.4,24,38,0.285,0.119
+20UPGPQ0024020,27/11/2020,Thin,PASS,Edinburgh,,20,4,yes,no,1.561,not tested,not tested,20,25,,,,,0.374,0.15,39.12,1.39,24,38,0.366,0.139
+20UPGPQ0024018,27/11/2020,Thin,FAIL,Edinburgh,,18,4,yes,no,1.578,not tested,not tested,24,26,,,,,0.353,2.38,50.3,1.9,24,38,0.345,2.369
+20UPGPQ0024072,27/11/2020,Thin,PASS,Edinburgh,,72,4,yes,no,1.591,not tested,not tested,25,26,,,,,0.363,0.12,35.56,1.26,24,38,0.355,0.109
+20UPGPQ0024070,27/11/2020,Thin,PASS,Edinburgh,,70,4,yes,no,1.623,not tested,not tested,24,30,,,,,0.393,0.13,35.45,1.44,24,38,0.385,0.119
+20UPGPQ0024060,27/11/2020,Thin,PASS,Edinburgh,,60,4,yes,no,1.546,not tested,not tested,24,24,,,,,0.333,0.12,36.77,1.43,24,38,0.325,0.109
+20UPGPQ0024059,27/11/2020,Thin,PASS,Edinburgh,,59,4,yes,no,1.534,not tested,not tested,25,25,,,,,0.353,0.13,48.91,1.45,24,38,0.345,0.119
+20UPGPQ0024017,27/11/2020,Thin,PASS,Edinburgh,,17,4,yes,no,1.572,not tested,not tested,24,25,,,,,0.435,0.19,53.49,1.48,24,38,0.427,0.179
+20UPGPQ0024054,27/11/2020,Thin,PASS,Edinburgh,,54,4,yes,no,1.575,not tested,not tested,25,27,,,,,0.334,0.14,49.01,1.47,24,38,0.427,0.179
+20UPGPQ0024055,27/11/2020,Thin,PASS,Edinburgh,,55,4,yes,no,1.587,not tested,not tested,23,24,,,,,0.373,0.18,45.24,1.46,24,38,0.365,0.169
+20UPGPQ0024056,27/11/2020,Thin,PASS,Edinburgh,,56,4,yes,no,1.588,not tested,not tested,23,24,,,,,0.345,0.14,46.27,1.44,24,38,0.337,0.129
+20UPGPQ0024052,30/11/2020,Thin,PASS,Edinburgh,,52,4,yes,no,1.567,not tested,not tested,24,25,,,,,0.384,0.14,40.9,1.4,24,38,0.376,0.129
+20UPGPQ0024051,30/11/2020,Thin,PASS,Edinburgh,,51,4,yes,no,1.547,not tested,not tested,24,24,,,,,0.394,0.14,38.73,1.39,24,38,0.386,0.129
+20UPGPQ0024049,30/11/2020,Thin,PASS,Edinburgh,,49,4,yes,no,1.532,not tested,not tested,23,24,,,,,0.383,0.13,44.81,1.41,24,38,0.375,0.119
+20UPGPQ0024038,30/11/2020,Thin,PASS,Edinburgh,,38,4,yes,no,1.594,not tested,not tested,24,26,,,,,0.323,0.16,34.45,1.45,24,38,0.315,0.149
+20UPGPQ0024040,30/11/2020,Thin,PASS,Edinburgh,,40,4,yes,no,1.597,not tested,not tested,24,28,,,,,0.333,0.2,35.79,1.45,24,38,0.325,0.189
+20UPGPQ0024064,30/11/2020,Thin,PASS,Edinburgh,,64,4,yes,no,1.549,not tested,not tested,22,22,,,,,0.323,0.2,34.66,1.42,24,38,0.315,0.189
+20UPGPQ0024039,30/11/2020,Thin,PASS,Edinburgh,,39,4,yes,no,1.593,not tested,not tested,23,26,,,,,0.324,0.61,31.45,1.55,24,38,0.316,0.599
+20UPGPQ0024063,30/11/2020,Thin,PASS,Edinburgh,,63,4,yes,reworked,1.55,not tested,not tested,23,25,,,,,0.384,0.19,35.04,1.41,24,38,0.376,0.179
+20UPGPQ0024062,30/11/2020,Thin,PASS,Edinburgh,,62,4,yes,no,1.544,not tested,not tested,23,24,,,,,0.344,0.16,31.55,1.39,24,38,0.336,0.149
+20UPGPQ0024027,09/12/2020,Thin,PASS,Edinburgh,,27,4,yes,no,1.602,not tested,not tested,25,26,,,,,0.344,0.29,34.7,1.48,24,38,0.336,0.279
+20UPGPQ0024028,09/12/2020,Thin,PASS,Edinburgh,,28,4,yes,no,1.601,not tested,not tested,24,25,,,,,0.343,0.24,32.92,1.47,24,38,0.335,0.229
+20UPGPQ0024026,09/12/2020,Thin,FAIL,Edinburgh,,26,4,yes,no,1.594,not tested,not tested,24,25,,,,,0.332,2,34.12,1.99,24,38,0.324,1.989
+20UPGPQ0024025,09/12/2020,Thin,PASS,Edinburgh,,25,4,yes,no,1.599,not tested,not tested,27,26,,,,,0.365,0.23,35.1,1.47,24,38,0.357,0.219
+20UPGPQ0021053,09/12/2020,Thin,PASS,Edinburgh,,53,1,yes,no,1.659,not tested,not tested,27,27,,,,,0.344,0.22,38.11,1.33,24,38,0.336,0.209
+20UPGPQ0021165,09/12/2020,Thin,PASS,Edinburgh,,165,1,yes,no,1.621,not tested,not tested,25,25,,,,,0.344,0.12,34.7,1.39,24,38,0.336,0.109
+20UPGPQ0021180,09/12/2020,Thin,PASS,Edinburgh,,180,1,yes,no,1.677,not tested,not tested,25,27,,,,,0.344,0.22,37.91,1.27,24,38,0.336,0.209
+20UPGPQ0021168,09/12/2020,Thin,PASS,Edinburgh,,168,1,yes,no,1.601,not tested,not tested,26,25,,,,,0.335,0.17,30.36,1.43,24,38,0.327,0.159
+20UPGPQ0021159,09/12/2020,Thin,PASS,Edinburgh,,159,1,yes,reworked,1.62,not tested,not tested,27,25,,,,,0.385,0.14,31.79,1.42,24,38,0.377,0.129
+20UPGPQ0021056,09/12/2020,Thin,PASS,Edinburgh,,56,1,yes,no,1.644,not tested,not tested,26,26,,,,,0.324,0.15,35.98,1.31,24,38,0.316,0.139
+20UPGPQ0021092,09/12/2020,Thin,PASS,Edinburgh,,92,1,yes,reworked,1.637,not tested,not tested,27,25,,,,,0.323,0.2,37.45,1.25,24,38,0.315,0.189
+20UPGPQ0021074,09/12/2020,Thin,PASS,Edinburgh,,74,1,yes,no,1.654,not tested,not tested,27,23,,,,,0.355,0.14,30.42,1.39,24,38,0.347,0.129
+20UPGPQ0021158,09/12/2020,Thin,PASS,Edinburgh,,158,1,yes,no,1.622,not tested,not tested,26,26,,,,,0.303,0.14,34.19,1.35,24,38,0.295,0.129

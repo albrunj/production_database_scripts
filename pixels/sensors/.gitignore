@@ -1,0 +1,4 @@
+/plots/*
+Notebooks/setEnv.py
+Notebooks/__pycache__/*
+*_ed.py

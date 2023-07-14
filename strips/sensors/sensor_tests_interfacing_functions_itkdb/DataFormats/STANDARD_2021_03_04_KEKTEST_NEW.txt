@@ -1,0 +1,20 @@
+$$$Filename&&&
+Type: $$$Type&&&
+Batch: $$$Batch&&&
+Wafer: $$$Wafer&&&
+Component: $$$Component&&&
+Date: $$$Date&&&
+Time: $$$Time&&&
+Institute: $$$Institute&&&
+TestType: $$$TestType&&&
+Amplitude: $$$AMPLITUDE&&&
+Circuit: $$$CIRCUIT&&&
+Vbias_DC: $$$VBIAS_DC&&&
+Vtest_DC: $$$VTEST_DC&&&
+Vbias_AC: $$$VBIAS_AC&&&
+Segment: $$$SEGMENTNO&&&
+RunNumber: $$$RunNumber&&&
+Temperature: $$$TEMPERATURE&&&
+Humidity: $$$HUMIDITY&&&
+Comments: $$$COMMENTS&&&
+$$$TABLE&&&

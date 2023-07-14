@@ -1,0 +1,6 @@
+#if the following key words are in the Calibration Folder, this folder will be ignored
+Recali
+Recalibration
+recal
+final
+FinalSurvey

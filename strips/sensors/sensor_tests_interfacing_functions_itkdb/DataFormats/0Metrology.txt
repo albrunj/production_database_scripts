@@ -1,0 +1,9 @@
+"Version,",$$$MetrologyVersion&&&
+"Format,",$$$MetrologyFormat&&&
+"File Name,","$$$Filename&&&"
+"Date,","$$$Date&&&"
+"Time,","$$$Time&&&"
+
+
+
+$$$TABLE&&&

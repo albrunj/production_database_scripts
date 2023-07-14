@@ -1,0 +1,18 @@
+$$$Filename&&&
+Manufacturer: $$$Manufacturer&&&
+Type: $$$Type&&&
+Batch: $$$Batch&&&
+Wafer: $$$Wafer&&&
+Component: $$$Component&&&
+Date: $$$Date&&&
+Time: $$$Time&&&
+Institute: $$$Institute&&&
+TestType: $$$TestType&&&
+Instrument: $$$Instrument&&&
+Settings: $$$Settings&&&
+Segment: $$$Segment&&&
+RunNumber: $$$RunNumber&&&
+Temperature: $$$Temperature[°C]&&&
+Humidity: $$$Humidity[%]&&&
+$$$numColumns&&& $$$numRows&&&
+$$$TABLE&&&

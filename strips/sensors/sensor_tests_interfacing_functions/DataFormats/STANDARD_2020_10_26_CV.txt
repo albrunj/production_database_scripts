@@ -1,0 +1,20 @@
+$$$Filename&&&
+Type: $$$Type&&&
+Batch: $$$Batch&&&
+Wafer: $$$Wafer&&&
+Component: $$$Component&&&
+Date: $$$Date&&&
+Time: $$$Time&&&
+Institute: $$$Institute&&&
+TestType: $$$TestType&&&
+Vbias_SMU: $$$Vbias_SMU&&&
+Rseries: $$$Rseries[MOhm]&&&
+LCR: $$$LCR&&&
+Frequency: $$$Frequency[kHz]&&&
+Amplitude: $$$Amplitude[V]&&&
+Circuit: $$$Circuit&&&
+RunNumber: $$$RunNumber&&&
+Temperature: $$$Temperature[°C]&&&
+Humidity: $$$Humidity[%]&&&
+Comments: $$$Settings&&&
+$$$TABLE&&&

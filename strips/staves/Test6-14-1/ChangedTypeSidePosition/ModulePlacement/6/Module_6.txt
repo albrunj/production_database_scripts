@@ -1,0 +1,25 @@
+[General]
+ModuleID = "Test"
+FiducialMark = "Mark E (Slim/17)"
+Date_Ideal = "9/6/2018 11:12:41 AM0.000000 "
+Notes_Ideal = ""
+
+[CornerA]
+X_Ideal = -200.040390
+Y_Ideal = 19.213235
+Z_Ideal = 16.592752
+
+[CornerB]
+X_Ideal = -104.645191
+Y_Ideal = 21.637592
+Z_Ideal = 16.592752
+
+[CornerC]
+X_Ideal = -107.095055
+Y_Ideal = 118.036467
+Z_Ideal = 16.592752
+
+[CornerD]
+X_Ideal = -202.490254    
+Y_Ideal = 115.612110    
+Z_Ideal = 16.592752    
