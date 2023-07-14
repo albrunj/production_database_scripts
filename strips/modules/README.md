@@ -57,3 +57,17 @@ You must provide either the serial number of the STAR Hybrid Assembly or the loc
 This script should have the same python version requirements as what's listed in the top-level [README](/README.md).
 
 Contact Ian Dyckes at ian.dyckes@cern.ch with questions.
+
+
+getAsicConfigGui.py
+-------------------
+
+GUI for pulling the initializations used during the ABCStar wafer probing and writing the info to an ITSDAQ config. It will iterate over each ABCStarV1 chip assembled to a STAR Hybrid Assembly, pull the "DAC_TEST" JSON, and write the relevant info to an ITSDAQ config. Create system config file for long or short strip staves.
+
+Can either input serial numbers manually into GUI or text file of serial numbers. Template for such a text file can be found in ./serial_numbers.
+Files saved in ./hybrid_configs or designated output directory.
+
+Partially adapted from getAsicConfig.py by Ian Dyckes.
+
+Contact Albrun Johnson at johnal03@gettyburg.edu with questions.
+
